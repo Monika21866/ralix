@@ -1,6 +1,6 @@
 {
   "name": "ralix",
-  "version": "0.1.44",
+  "version": "0.1.45",
   "description": "\u2728  Microframework for building and organizing your front-end",
   "main": "src/index.js",
   "scripts": {
